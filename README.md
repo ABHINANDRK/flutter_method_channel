@@ -1,16 +1,9 @@
-# method_channel_turorial
+# Flutter’s MethodChannel to invoke Activity in Android and View Controller in iOS
 
-A new Flutter project.
+This sample project showcases how to trigger native screens from a Flutter application using platform channels. The Flutter app communicates with native code via a Method Channel to open a new Activity on Android and a new View Controller on iOS. This approach bridges the Flutter UI with platform-specific functionalities.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For more details about using Flutter's MethodChannel to invoke activities in Android and view controllers in iOS, check out my detailed post here(https://dev.to/abhinandrk/flutters-methodchannel-to-invoke-activity-in-android-and-view-controller-in-ios-3f7j).
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
